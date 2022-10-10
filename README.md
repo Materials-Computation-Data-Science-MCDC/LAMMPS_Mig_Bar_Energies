@@ -6,7 +6,7 @@ Found in this repository are four different folders named: "binaries", "ternarie
 
 	In the "binariess" folder, there is one Excel file containing sheets for each of the binary alloys for this project, so NiCu, NiCr, NiCo, FeNi, FeCu, FeCr, FeCo, CrCu, CrCo, and CoCu.
 	
-	In the "ternaries" folder, there are 8 Excel files with multiple compositions for each of the ternary alloy in separate sheets. There is also an Excel file containing the equiatomic ternary alloy data for each of the ternary alloys.
+	In the "ternaries" folder, there are 8 folders with multiple excel sheets for each composition of the ternary alloy. There is also an Excel file containing the equiatomic ternary alloy data for each of the ternary alloys.
 	
 	In the "quaternaries" folder, there are 5 Excel files with multiple compositions for each of the quaternary alloys.
 	
